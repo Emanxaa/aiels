@@ -1,11 +1,24 @@
-# Paper
+﻿---
+type: paper
+title: "{{title}}"
+authors: []
+year: {{year}}
+method: {{method}}
+dataset: {{dataset}}
+domain: {{domain}}
+status: summarized
+---
 
-## Masalah
+# Paper Summary: {{title}}
 
-## Metode
+## Problem Statement
+- 
 
-## Dataset
+## Metodologi
+- 
 
-## Hasil
+## Key Findings
+- 
 
-## Gap Penelitian
+## Relevansi Riset
+- 

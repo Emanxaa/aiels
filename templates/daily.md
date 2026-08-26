@@ -1,11 +1,20 @@
-# {{date}}
+﻿---
+type: journal
+energy: high | medium | low
+focus: {{focus_topic}}
+date: {{date}}
+---
+
+# Daily Journal - {{date}}
 
 ## Fokus Hari Ini
+- 
 
-## Yang Dikerjakan
+## Pekerjaan & Log Aktivitas
+- 
 
-## Insight
-
-## Hambatan
+## Hambatan & Mitigasi
+- 
 
 ## Next Action
+- 

@@ -1,11 +1,30 @@
-# Mata Kuliah
+﻿---
+type: course
+course: {{course_code}}
+topic: {{topic}}
+concepts:
+  - {{concept_1}}
+  - {{concept_2}}
+date: {{date}}
+status: processed
+---
+
+# {{course_code}}: {{topic}}
+
+## Ringkasan
+- 
 
 ## Konsep Inti
+- 
 
-## Rumus
+## Rumus / Notasi
+$$
 
-## Contoh
+$$
 
-## Recall Card
+## Recall Cards
+- Q: 
+  A: 
 
-## Pertanyaan
+## Latihan
+- 
