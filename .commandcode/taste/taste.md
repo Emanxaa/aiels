@@ -1,0 +1,2 @@
+- Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.7
+- Wants every work session documented (e.g., session notes/logs), not just major milestones. Confidence: 0.8
