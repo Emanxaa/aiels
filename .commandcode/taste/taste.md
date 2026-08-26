@@ -1,2 +1,3 @@
-- Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.7
+- Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.8
+- Keeps a structured reading/research system: uploaded papers live under `research/papers/<topic>/` with per-paper template files (summary.md, notes.md, experiment.md), and tracked readings go in a `radar/` folder. Confidence: 0.5
 - Wants every work session documented (e.g., session notes/logs), not just major milestones. Confidence: 0.8
