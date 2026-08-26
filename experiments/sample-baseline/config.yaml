@@ -1,0 +1,11 @@
+﻿experiment_name: sample_baseline
+seed: 42
+data:
+  train_path: "data/train.csv"
+  test_path: "data/test.csv"
+  target_column: "target"
+model:
+  type: "CatBoostClassifier"
+  iterations: 500
+  learning_rate: 0.05
+  depth: 6

@@ -30,3 +30,17 @@ Dokumentasi ide penelitian, topik tesis, dan peluang proyek akademik.
 * **Domain:** Financial Anomaly Detection.
 * **Status:** Ide Awal
 * **Next Action:** Eksplorasi literatur LOF dan tinjau ketersediaan dataset transaksi.
+
+---
+
+## 3. Adaptive Imbalance Handling for Stable SHAP Interpretation
+
+* **Ide:** Kriteria adaptif untuk memilih metode penanganan *class imbalance* (SMOTE vs ADASYN) yang menyeimbangkan deteksi kelas minoritas dan stabilitas interpretasi SHAP diukur dengan SRA, pada data tabular tidak seimbang.
+* **Sumber Inspirasi:** Najih et al. (2026) — menemukan trade-off: SMOTE unggul sensitivitas, ADASYN unggul stabilitas ranking (LightGBM ADASYN SRA=0.5350 vs tanpa handling 2.2534).
+* **Domain:** Interpretable ML / Tabular Learning / Imbalanced Classification.
+* **Status:** Ide Awal
+* **Terkait:**
+  * **Paper:** [[research/summaries/stability-shap-feature-importance-ranking]]
+  * **Metode:** [[knowledge/methods#SHAP]], [[knowledge/methods#XGBoost]], [[knowledge/methods#LightGBM]]
+  * **Konsep:** [[knowledge/concepts#Class-Imbalance]]
+* **Next Action:** Tinjau ulang metrik SRA pada data klaim; rancang simulasi tambahan dengan struktur non-linear dan interaksi fitur sesuai saran limitasi paper.
