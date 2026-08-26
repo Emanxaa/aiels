@@ -1,0 +1,32 @@
+experiment_name: xgboost_poverty
+seed: 42
+
+data:
+  train_path: "data/train.csv"
+  test_path: "data/test.csv"
+  target_column: "poor"               # 1 = rumah tangga miskin (kelas minoritas)
+  categorical_features: []            # isi setelah EDA (nama kolom kategorikal)
+  numeric_features: []                # isi setelah EDA
+
+model:
+  type: "XGBClassifier"
+  n_estimators: 300
+  max_depth: 6
+  learning_rate: 0.05
+  subsample: 0.8
+  colsample_bytree: 0.8
+  eval_metric: "aucpr"
+  scale_pos_weight: null              # null = auto; atur manual bila ingin
+
+imbalance_handling:
+  method: "none"                      # none | smote | adasyn (via imblearn)
+  apply_on: "train_only"              # mencegah data leakage
+
+evaluation:
+  primary_metrics: ["roc_auc", "pr_auc", "balanced_accuracy", "f1"]
+  test_size: 0.3
+  stratify: true
+
+shap:
+  enabled: true
+  sample_size: 1000                   # ukuran sampel background untuk SHAP
