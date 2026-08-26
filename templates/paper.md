@@ -1,11 +1,9 @@
 ﻿---
 type: paper
 title: "{{title}}"
-authors: []
 year: {{year}}
 method: {{method}}
 dataset: {{dataset}}
-domain: {{domain}}
 status: summarized
 ---
 
@@ -20,5 +18,9 @@ status: summarized
 ## Key Findings
 - 
 
-## Relevansi Riset
-- 
+---
+
+## Related Knowledge (Cross-Links)
+- **Methods:** [[knowledge/methods]]
+- **Course Connection:** [[courses/STA501/]]
+- **Datasets:** [[knowledge/datasets]]
