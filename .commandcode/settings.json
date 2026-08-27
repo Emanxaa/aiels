@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(python -c \"from scrape_lecturers import __main__\")",
+      "Shell(python -c \"import scripts.scrape_lecturers.__main__\")"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
