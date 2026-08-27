@@ -4,7 +4,7 @@ name: Sachnaz Desta Oktarina S.Stat., M.Agr.Sc., Ph.D
 orcid: 0000-0003-3974-179X
 scholar: ueg6GfgAAAAJ
 researchgate: 2298626167
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
 # Profil & Publikasi: Sachnaz Desta Oktarina S.Stat., M.Agr.Sc., Ph.D

@@ -1,7 +1,7 @@
 ---
 type: radar
 category: professors
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
 # Professor & Research Lab Radar
