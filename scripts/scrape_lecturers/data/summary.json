@@ -5,5 +5,12 @@
     "orcid_works": 7,
     "scholar_blocked": false,
     "rg_blocked": true
+  },
+  {
+    "lecturer": "Dr. Farit Mochamad Afendi, S.Si, M.Si",
+    "card": "D:\\IPB\\aiels\\scripts\\scrape_lecturers\\..\\..\\research\\lecturers\\farit-mochamad-afendi\\profile.md",
+    "orcid_works": 0,
+    "scholar_blocked": false,
+    "rg_blocked": true
   }
 ]

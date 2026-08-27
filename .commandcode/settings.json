@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Shell(python -c \"from scrape_lecturers import __main__\")",
-      "Shell(python -c \"import scripts.scrape_lecturers.__main__\")"
+      "Shell(python -c \"import scripts.scrape_lecturers.__main__\")",
+      "Shell(curl -s -H \"Accept: application/json\" \"https://pub.orcid.org/v3.0/0009-0006-9172-9455/works\" -o \"C:\\WINDOWS\\TEMP\\commandcode\\D--IPB-aiels\\e711436e-34b6-4376-838f-d4bfb64c4113\\scratchpad\\orcid_farit.json\" -w \"%{http_code}\")",
+      "Shell(python -m scrape_lecturers)"
     ],
     "deny": [],
     "defaultMode": "default"
