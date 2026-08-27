@@ -1,0 +1,21 @@
+# Negative of: SSMI IPB faculty scraping seed.
+# Sesuaikan nilai di bawah sebelum menjalankan.
+faculty_url: "https://stat.ipb.ac.id/faculty-member/"
+
+# Polite delay (detik) antar request ke situs/Berkendala; hormati server.
+request_delay_seconds: 2.0
+timeout_seconds: 20
+
+# Output path (relatif terhadap direktori module ini).
+output_dir: "data"
+radar_output: "../../radar/professors.md"
+lecturers_dir: "../../research/lecturers"
+
+# Daftar dosen yang akan ditelusuri publikasinya.
+# Setiap entri: loading slug, nama, kunci sumber (orcid / scholar / researchgate).
+lecturers:
+  - slug: "sachnaz-desta-oktarina"
+    name: "Sachnaz Desta Oktarina S.Stat., M.Agr.Sc., Ph.D"
+    orcid: "0000-0003-3974-179X"
+    scholar_user: "ueg6GfgAAAAJ"
+    researchgate_id: "2298626167"

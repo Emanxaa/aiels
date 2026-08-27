@@ -1,0 +1,166 @@
+{
+  "orcid": "0000-0003-3974-179X",
+  "blocked": false,
+  "works": [
+    {
+      "title": "IMPLEMENTATION OF CUCKOO SEARCH-BASED ENSEMBLE VARIABLE IMPORTANCE IN THE CLASSIFICATION OF NON-CASH FOOD ASSISTANCE (BPNT) RECIPIENTS IN WEST JAVA",
+      "year": "2026",
+      "type": "journal-article",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.30598/barekengvol20iss3pp2601-2612",
+          "external-id-normalized": {
+            "value": "10.30598/barekengvol20iss3pp2601-2612",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.30598/barekengvol20iss3pp2601-2612"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "Household Food Resilience in Indonesia During COVID-19: Insights from High-Frequency Survey with Explainable Machine Learning",
+      "year": "2026",
+      "type": "preprint",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.2139/ssrn.6793377",
+          "external-id-normalized": {
+            "value": "10.2139/ssrn.6793377",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.2139/ssrn.6793377"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "Analisis Faktor yang Memengaruhi Tingkat Diabetes Melitus pada Masyarakat di Kota/Kabupaten di Provinsi Jawa Timur Tahun 2018",
+      "year": "2024",
+      "type": "journal-article",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.30872/jsk.v5i5.540",
+          "external-id-normalized": {
+            "value": "10.30872/jsk.v5i5.540",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.30872/jsk.v5i5.540"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "Analysis of Air Quality in Indonesia Using Tensor Decomposition-Based Clustering",
+      "year": "2024",
+      "type": "conference-paper",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.1145/3670105.3670176",
+          "external-id-normalized": {
+            "value": "10.1145/3670105.3670176",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.1145/3670105.3670176"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "Analisis Faktor yang Memengaruhi Tingkat Diabetes Melitus pada Masyarakat di Kota/Kabupaten di Provinsi Jawa Timur Tahun 2018",
+      "year": "2023",
+      "type": "journal-article",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.25026/jsk.v5i5.1896",
+          "external-id-normalized": {
+            "value": "10.25026/jsk.v5i5.1896",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.25026/jsk.v5i5.1896"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "Regency Clusterization Based on Village Characteristics to Increase the Human Development Index (IPM) in Papua Province",
+      "year": "2022",
+      "type": "journal-article",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.22219/jep.v21i02.22911",
+          "external-id-normalized": {
+            "value": "10.22219/jep.v21i02.22911",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://doi.org/10.22219/jep.v21i02.22911"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    {
+      "title": "The effect of climate change to palm oil price dynamics: A supply and demand model",
+      "year": "2021",
+      "type": "conference-paper",
+      "doi": [
+        {
+          "external-id-type": "doi",
+          "external-id-value": "10.1088/1755-1315/782/3/032062",
+          "external-id-normalized": {
+            "value": "10.1088/1755-1315/782/3/032062",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": null,
+          "external-id-relationship": "self"
+        },
+        {
+          "external-id-type": "eid",
+          "external-id-value": "2-s2.0-85109367058",
+          "external-id-normalized": {
+            "value": "2-s2.0-85109367058",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": null,
+          "external-id-relationship": "self"
+        },
+        {
+          "external-id-type": "issn",
+          "external-id-value": "17551315 17551307",
+          "external-id-normalized": {
+            "value": "1755-1315",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": null,
+          "external-id-relationship": "part-of"
+        }
+      ]
+    }
+  ]
+}

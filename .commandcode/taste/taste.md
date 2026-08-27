@@ -1,3 +1,5 @@
 - Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.8
 - Keeps a structured reading/research system: uploaded papers live under `research/papers/<topic>/` with per-paper template files (summary.md, notes.md, experiment.md), and tracked readings go in a `radar/` folder. Confidence: 0.5
 - Wants every work session documented (e.g., session notes/logs), not just major milestones. Confidence: 0.8
+- Prefers "Python dahulu" (Python-first) for automation and tooling — modular Python modules over shell-only scripts. Confidence: 0.7
+- For new features, wants the plan brainstormed/written to a plan file first (e.g. `~/.commandcode/plans/<feature>.md`) before implementation, and the feature logged in `project/backlog.md` with an ID code (e.g. EH-xx) as a tracked item. Explicitly requested "brainstorm the plan first" when proposing a new feature. Confidence: 0.7

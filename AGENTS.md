@@ -14,6 +14,7 @@ Setiap prompt atau input yang masuk akan secara otomatis diarahkan ke agen spesi
 | **Paper & Riset** | **Research Assistant** | esearch-assistant, paper-intake | Summary, gap, update 	hesis/ |
 | **Kode & Pipeline** | **Coding Copilot** | coding-copilot, experiment-generate | Skrip modular, config, template repo |
 | **Karier & Beasiswa** | **Career Scout** | career-scout | Peluang & deadline di adar/ |
+| **Dosen & Publikasi** | **Lecturer Scout** | lecturer-scout, scrape_lecturers | Data dosen & kartu publikasi di radar/ & research/lecturers/ |
 | **Evaluasi Harian/Mingguan** | **Review Coach** | morning-brief, shutdown, weekly-research | Jurnal & sinkronisasi dashboard |
 
 ---

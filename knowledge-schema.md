@@ -13,7 +13,13 @@ Dokumen ini mendefinisikan entitas inti (entities), relasi (relationships), dan 
 | **Method** | Algoritma atau teknik analisis | `research/`, `courses/` | `CatBoost`, `LOF (Local Outlier Factor)`, `k-NN` |
 | **Paper** | Publikasi atau jurnal referensi | `research/papers/` | `Paper X`, `Attention Is All You Need` |
 | **Dataset** | Kumpulan data studi atau riset | `research/datasets/` | `Sakernas`, `Susenas`, `Kaggle Dataset` |
-| **Professor** | Dosen pengampu / pembimbing | `courses/` | `Dosen IPB` |
+| **Professor** | Dosen pengampu / pembimbing | `research/lecturers/`, `courses/` | `Sachnaz Desta Oktarina Ph.D` |
+
+> **Catatan EH-04:** Entitas *Professor* diisi otomatis oleh skrip
+> `scripts/scrape_lecturers` (scraper SSMI/ORCID/Scholar/ResearchGate). Kartu per dosen
+> berada di `research/lecturers/<slug>/profile.md` dan diindeks pada tabel
+> `radar/professors.md`. Relasi `taught_by ──► Professor` tidak berubah.
+
 | **Project** | Proyek riset atau implementasi | `research/`, `dashboard/` | `Project ATLAS`, `Academic OS` |
 
 ---

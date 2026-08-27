@@ -39,6 +39,7 @@ Dokumen ini adalah *single source of truth* untuk seluruh fitur, peningkatan, da
 | **EH-01** | Enhancement | Sentiment Analysis Modularization Project | To Do | P1 | Sprint 3 |
 | **EH-02** | Enhancement | Cloud Training Dispatcher (Colab / Kaggle API) | Backlog | P2 | Sprint 3 |
 | **EH-03** | Enhancement | Automated LaTeX Thesis Generator | Backlog | P2 | Sprint 4 |
+| **EH-04** | Enhancement | Lecturer & Publication Radar (SSMI scrape → radar/professors.md + kartu di research/lecturers/) | To Do | P2 | Sprint 3 |
 
 ---
 

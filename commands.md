@@ -9,6 +9,7 @@ Dokumentasi pintasan perintah (slash commands) untuk mempercepat alur kerja akad
 | `/coding` | Dokumentasi script, modularisasi, dan implementasi | Snippet / skrip kode | Catatan teknis & modul proyek |
 | `/paper` | Membaca, menganalisis, dan meringkas paper riset | PDF / teks paper | Ringkasan di `research/summaries/` |
 | `/weekly` | Evaluasi mingguan dan retrospeksi progres | Log jurnal harian | Review di `journal/weekly/` |
+| `/lecturers` | Scrape & perbarui profil publikasi dosen (SSMI/ORCID/Scholar/RG) | URL profil / ORCID / nama dosen | Update `radar/professors.md` & kartu di `research/lecturers/` |
 | `/shutdown` | Tutup hari kerja dan simpan status terkini | Aktivitas hari ini | Update `dashboard/` & jurnal |
 
 ---
