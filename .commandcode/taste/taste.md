@@ -1,4 +1,5 @@
-- Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.8
+- Communicates in Indonesian (Bahasa Indonesia); prefers responses in the same language. Confidence: 0.9
+- Wants documentation (e.g., README) to explain the repo from a practical usage perspective ("hal-hal penting untuk diketahui ... dalam konteks penggunaannya") — usage context and workflows, not just structure listing. Confidence: 0.5
 - Keeps a structured reading/research system: uploaded papers live under `research/papers/<topic>/` with per-paper template files (summary.md, notes.md, experiment.md), and tracked readings go in a `radar/` folder. Confidence: 0.5
 - Wants every work session documented (e.g., session notes/logs), not just major milestones. Confidence: 0.8
 - Prefers "Python dahulu" (Python-first) for automation and tooling — modular Python modules over shell-only scripts. Confidence: 0.7
